@@ -1,0 +1,872 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\ajax\libs\font-awesome\6.6.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\ajax\libs\font-awesome\6.6.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\ajax\libs\font-awesome\6.6.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\ajax\libs\font-awesome\6.6.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\ajax\libs\font-awesome\6.6.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\ajax\libs\font-awesome\6.6.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\ajax\libs\font-awesome\6.6.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\ajax\libs\font-awesome\6.6.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\ajax\libs\font-awesome\6.6.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://cooperativacelendin.com/
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.htm
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/css/animate.min.css?f0e5a433315546f965c8eafdf01f63c5
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?f0e5a433315546f965c8eafdf01f63c5
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?f0e5a433315546f965c8eafdf01f63c5
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/css/leaflet.css
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\css\leaflet.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/css/sppagebuilder.css?f0e5a433315546f965c8eafdf01f63c5
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\css\sppagebuilder.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/images/layers-2x.png
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\images\layers-2x.png
+Content Type: image/png
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/images/layers.png
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\images\layers.png
+Content Type: image/png
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/images/marker-icon.png
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\images\marker-icon.png
+Content Type: image/png
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/js/addons/image.js
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\js\addons\image.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/js/addons/text_block.js
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\js\addons\text_block.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/js/common.js
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\js\common.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/js/jquery.parallax.js?f0e5a433315546f965c8eafdf01f63c5
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\js\jquery.parallax.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/js/leaflet.js
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\js\leaflet.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/js/leaflet.provider.js
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\js\leaflet.provider.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/js/sppagebuilder.js?f0e5a433315546f965c8eafdf01f63c5
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\js\sppagebuilder.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/js/sp_carousel.js
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\js\sp_carousel.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://cooperativacelendin.com/components/com_sppagebuilder/assets/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\components\com_sppagebuilder\assets\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://cooperativacelendin.com/images/contenido/09_convocatorias/BASES_PARA_EL_CONCURSO_P001_2025.pdf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\images\contenido\09_convocatorias\BASES_PARA_EL_CONCURSO_P001_2025.pdf
+Content Type: application/pdf
+
+Uri: https://cooperativacelendin.com/images/contenido/09_convocatorias/convocatoria_2026_aud_exte.pdf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\images\contenido\09_convocatorias\convocatoria_2026_aud_exte.pdf
+Content Type: application/pdf
+
+Uri: https://cooperativacelendin.com/images/contenido/11_archivo/ESTATUTO_-_COOPAC_CELENDIN_2024.pdf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\images\contenido\11_archivo\ESTATUTO_-_COOPAC_CELENDIN_2024.pdf
+Content Type: application/pdf
+
+Uri: https://cooperativacelendin.com/images/sistema/logos/favicon.ico
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\images\sistema\logos\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://cooperativacelendin.com/index.php
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/buscar
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\buscar.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/component/finder/search?format=opensearch&Itemid=101
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\component\finder\search
+Content Type: application/opensearchdescription+xml
+
+Uri: https://cooperativacelendin.com/index.php/contacto
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\contacto.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/creditos/acceder-a-un-credito
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\creditos\acceder-a-un-credito.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/creditos/depositos-a-plazo-fijo
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\creditos\depositos-a-plazo-fijo.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/creditos/ficha-tecnica-de-productos-crediticios
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\creditos\ficha-tecnica-de-productos-crediticios.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/educacion-financiera
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\educacion-financiera.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/base-legal
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\base-legal.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/directivos
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\directivos.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/estatutos
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\estatutos.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/formas-de-pago
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\formas-de-pago.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/historia
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\historia.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/mision-y-vision
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\mision-y-vision.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/organigrama
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\organigrama.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/publicaciones
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\publicaciones.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/publicaciones/buscar-publicacion
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\publicaciones\buscar-publicacion.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/publicaciones/buscar-publicacion?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\publicaciones\buscar-publicacion-1
+Content Type: application/atom+xml
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/publicaciones/buscar-publicacion?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\publicaciones\buscar-publicacion
+Content Type: application/rss+xml
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/publicaciones/proceso-de-elecciones
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\publicaciones\proceso-de-elecciones.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/publicaciones/productos-crediticios
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\publicaciones\productos-crediticios.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/publicaciones?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\publicaciones-2
+Content Type: application/atom+xml
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/publicaciones?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\publicaciones-1
+Content Type: application/rss+xml
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/publicaciones?start=4
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\publicaciones-1.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/publicaciones?start=8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\publicaciones-2.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/nosotros/quien-somos
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\nosotros\quien-somos.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/prevision-social
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\prevision-social.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/prevision-social/aportes-y-fondo-mortuorio
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\prevision-social\aportes-y-fondo-mortuorio.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/prevision-social/perdida-del-fondo-de-previson-social
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\prevision-social\perdida-del-fondo-de-previson-social.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/socios/derechos-y-obligaciones
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\socios\derechos-y-obligaciones.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/socios/perdida-de-condicion-de-socio
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\socios\perdida-de-condicion-de-socio.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/socios/requisitos-para-ser-socio
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\socios\requisitos-para-ser-socio.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/transparencia/convocatoria
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\transparencia\convocatoria.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/transparencia/convocatoria/convocatoria-a-sociedades-de-auditoria-externa-2025
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\transparencia\convocatoria (1)\convocatoria-a-sociedades-de-auditoria-externa-2025.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/transparencia/convocatoria/convocatoria-a-sociedades-de-auditoria-externa-2026
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\transparencia\convocatoria (1)\convocatoria-a-sociedades-de-auditoria-externa-2026.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/transparencia/convocatoria?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\transparencia\convocatoria-1
+Content Type: application/atom+xml
+
+Uri: https://cooperativacelendin.com/index.php/transparencia/convocatoria?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\transparencia\convocatoria
+Content Type: application/rss+xml
+
+Uri: https://cooperativacelendin.com/index.php/transparencia/estados-financieros
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\transparencia\estados-financieros.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/transparencia/estados-financieros/eeff-diciembre-2025
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\transparencia\estados-financieros\eeff-diciembre-2025.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/transparencia/estados-financieros/eeff-junio-2025
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\transparencia\estados-financieros\eeff-junio-2025.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/transparencia/estados-financieros/eeff-marzo-2026
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\transparencia\estados-financieros\eeff-marzo-2026.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/index.php/transparencia/estados-financieros/eeff-septiembre-2025
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\index.php\transparencia\estados-financieros\eeff-septiembre-2025.html
+Content Type: text/html
+
+Uri: https://cooperativacelendin.com/media/com_content/js/articles-list.min.js?f53819
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_content\js\articles-list.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/com_finder/js/finder.min.js?755761
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_finder\js\finder.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/com_rstbox/css/engagebox.css?17c78e
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_rstbox\css\engagebox.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/media/com_rstbox/js/animations.js?17c78e
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_rstbox\js\animations.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/com_rstbox/js/engagebox.js?17c78e
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_rstbox\js\engagebox.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/com_rstbox/js/vendor/velocity.js?17c78e
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_rstbox\js\vendor\velocity.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/com_rstbox/js/vendor/velocity.ui.js?17c78e
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_rstbox\js\vendor\velocity.ui.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/com_sppagebuilder/assets/iconfont/icoahet/fonts/icoahet.eot?
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_sppagebuilder\assets\iconfont\icoahet\fonts\icoahet-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cooperativacelendin.com/media/com_sppagebuilder/assets/iconfont/icoahet/fonts/icoahet.eot?v=1
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_sppagebuilder\assets\iconfont\icoahet\fonts\icoahet.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cooperativacelendin.com/media/com_sppagebuilder/assets/iconfont/icoahet/fonts/icoahet.svg
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_sppagebuilder\assets\iconfont\icoahet\fonts\icoahet.svg
+Content Type: image/svg+xml
+
+Uri: https://cooperativacelendin.com/media/com_sppagebuilder/assets/iconfont/icoahet/fonts/icoahet.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_sppagebuilder\assets\iconfont\icoahet\fonts\icoahet.ttf
+Content Type: font/ttf
+
+Uri: https://cooperativacelendin.com/media/com_sppagebuilder/assets/iconfont/icoahet/fonts/icoahet.woff
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_sppagebuilder\assets\iconfont\icoahet\fonts\icoahet.woff
+Content Type: font/woff
+
+Uri: https://cooperativacelendin.com/media/com_sppagebuilder/assets/iconfont/icoahet/fonts/icoahet.woff2
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_sppagebuilder\assets\iconfont\icoahet\fonts\icoahet.woff2
+Content Type: font/woff2
+
+Uri: https://cooperativacelendin.com/media/com_sppagebuilder/assets/iconfont/icoahet/style.css?f0e5a433315546f965c8eafdf01f63c5
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_sppagebuilder\assets\iconfont\icoahet\style.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/media/com_sppagebuilder/assets/iconfont/icorqlfwd/style.css?f0e5a433315546f965c8eafdf01f63c5
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\com_sppagebuilder\assets\iconfont\icorqlfwd\style.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/media/legacy/js/jquery-noconflict.min.js?504da4
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\legacy\js\jquery-noconflict.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/mod_jsvisit_counter/css/jvisit_counter.css?17c78e
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\mod_jsvisit_counter\css\jvisit_counter.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/media/mod_jsvisit_counter/images/black.png
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\mod_jsvisit_counter\images\black.png
+Content Type: image/png
+
+Uri: https://cooperativacelendin.com/media/mod_menu/js/menu.min.js?17c78e
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\mod_menu\js\menu.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/plg_system_jcepro/site/css/content.min.css?badb4208be409b1335b815dde676300e
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\plg_system_jcepro\site\css\content.min.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/media/plg_system_jsvisit/js/jsvisit_agent.min.js?17c78e
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\plg_system_jsvisit\js\jsvisit_agent.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/smartslider3/src/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=76b60e7d
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\smartslider3\src\SmartSlider3\Application\Frontend\Assets\dist\n2.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/smartslider3/src/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=76b60e7d
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\smartslider3\src\SmartSlider3\Application\Frontend\Assets\dist\smartslider-frontend.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/smartslider3/src/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=76b60e7d
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\smartslider3\src\SmartSlider3\Application\Frontend\Assets\dist\smartslider.min.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/media/smartslider3/src/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=76b60e7d
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\smartslider3\src\SmartSlider3\Slider\SliderType\Simple\Assets\dist\ss-simple.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/smartslider3/src/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=76b60e7d
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\smartslider3\src\SmartSlider3\Widget\Arrow\ArrowImage\Assets\dist\w-arrow-image.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/system/css/joomla-fontawesome.min.css?17c78e
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\system\css\joomla-fontawesome.min.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/media/system/js/core.min.js?a3d8f8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\system\js\core.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/system/js/messages.min.js?9a4811
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\system\js\messages.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/system/js/showon.min.js?e51227
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\system\js\showon.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/awesomplete/css/awesomplete.css?1.1.7
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\awesomplete\css\awesomplete.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/media/vendor/awesomplete/js/awesomplete.min.js?1.1.7
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\awesomplete\js\awesomplete.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/bootstrap/js/alert.min.js?5.3.8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\bootstrap\js\alert.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/bootstrap/js/button.min.js?5.3.8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\bootstrap\js\button.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/bootstrap/js/carousel.min.js?5.3.8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\bootstrap\js\carousel.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/bootstrap/js/collapse.min.js?5.3.8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\bootstrap\js\collapse.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/bootstrap/js/dropdown.min.js?5.3.8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\bootstrap\js\dropdown.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/bootstrap/js/modal.min.js?5.3.8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\bootstrap\js\modal.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/bootstrap/js/offcanvas.min.js?5.3.8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\bootstrap\js\offcanvas.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/bootstrap/js/popover.min.js?5.3.8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\bootstrap\js\popover.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/bootstrap/js/scrollspy.min.js?5.3.8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\bootstrap\js\scrollspy.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/bootstrap/js/tab.min.js?5.3.8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\bootstrap\js\tab.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/bootstrap/js/toast.min.js?5.3.8
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\bootstrap\js\toast.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf?v=15d54d
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\fontawesome-free\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://cooperativacelendin.com/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2?v=cbcf42
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\fontawesome-free\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://cooperativacelendin.com/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf?v=262525
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\fontawesome-free\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://cooperativacelendin.com/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2?v=896727
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\fontawesome-free\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://cooperativacelendin.com/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf?v=269f97
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\fontawesome-free\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://cooperativacelendin.com/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2?v=4a6591
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\fontawesome-free\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://cooperativacelendin.com/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\joomla-custom-elements\css\joomla-alert.min.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/media/vendor/jquery/js/jquery.min.js?3.7.1
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\media\vendor\jquery\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/modules/mod_ebwhatsappchat/assets/css/whatapp_style.css
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\modules\mod_ebwhatsappchat\assets\css\whatapp_style.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/modules/mod_facebook_slide_likebox/tmpl/css/style.min.css
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\modules\mod_facebook_slide_likebox\tmpl\css\style.min.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/plugins/system/helixultimate/assets/css/system-j4.min.css
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\plugins\system\helixultimate\assets\css\system-j4.min.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/templates/shaper_helixultimate/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\templates\shaper_helixultimate\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/templates/shaper_helixultimate/css/presets/default.css
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\templates\shaper_helixultimate\css\presets\default.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/templates/shaper_helixultimate/css/template.css
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\templates\shaper_helixultimate\css\template.css
+Content Type: text/css
+
+Uri: https://cooperativacelendin.com/templates/shaper_helixultimate/images/menu-bg.jpg
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\templates\shaper_helixultimate\images\menu-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cooperativacelendin.com/templates/shaper_helixultimate/js/lazysizes.min.js
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\templates\shaper_helixultimate\js\lazysizes.min.js
+Content Type: text/javascript
+
+Uri: https://cooperativacelendin.com/templates/shaper_helixultimate/js/main.js
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\templates\shaper_helixultimate\js\main.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Muli:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Outfit:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin-ext&display=swap
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aujp_0qiz-afTfcIyoiGtm2P0wG00904eqVxg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aujp_0qiz-afTfcIyoiGtm2P0wG00904eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aujp_0qiz-afTfcIyoiGtm2P0wG03Z04eqVxg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aujp_0qiz-afTfcIyoiGtm2P0wG03Z04eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz4eqVxg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz4eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aujp_0qiz-afTfcIyoiGtm2P0wG06Nz4eqVxg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aujp_0qiz-afTfcIyoiGtm2P0wG06Nz4eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aujp_0qiz-afTfcIyoiGtm2P0wG089z4eqVxg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aujp_0qiz-afTfcIyoiGtm2P0wG089z4eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aujp_0qiz-afTfcIyoiGtm2P0wG0xF04eqVxg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aujp_0qiz-afTfcIyoiGtm2P0wG0xF04eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aujp_0qiz-afTfcIyoiGtm2P0wG0xFz4eqVxg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aujp_0qiz-afTfcIyoiGtm2P0wG0xFz4eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aujp_0qiz-afTfcIyoiGtm2P0wG0zh04eqVxg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aujp_0qiz-afTfcIyoiGtm2P0wG0zh04eqVxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aulp_0qiz-aVz7u3PJLcUMYOFlnl0k30e0.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aulp_0qiz-aVz7u3PJLcUMYOFlnl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aulp_0qiz-aVz7u3PJLcUMYOFlOkEk30e0.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aulp_0qiz-aVz7u3PJLcUMYOFlOkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aulp_0qiz-aVz7u3PJLcUMYOFmQkEk30e0.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aulp_0qiz-aVz7u3PJLcUMYOFmQkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aulp_0qiz-aVz7u3PJLcUMYOFn8kEk30e0.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aulp_0qiz-aVz7u3PJLcUMYOFn8kEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v34/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\muli\v34\7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\opensans\v44\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\outfit\v15\QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tMMPc.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiAyp8kv8JHgFVrJJLmE0tMMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VGdeL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm111VGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVGdeL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm21lVGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVGdeL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm81xVGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVGdeL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmg1hVGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VGdeL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmr19VGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVGdeL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmv1pVGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VGdeL.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmy15VGdeL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJnedw.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiEyp8kv8JHgFVrJJnedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLufntF.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiGyp8kv8JHgFVrJJLufntF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTufntF.ttf
+File Name: C:\Downloaded Web Sites\cooperativacelendin.com\s\poppins\v24\pxiGyp8kv8JHgFVrLPTufntF.ttf
+Content Type: font/ttf
+
