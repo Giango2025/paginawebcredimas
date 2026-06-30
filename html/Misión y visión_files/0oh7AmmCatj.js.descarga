@@ -1,4 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("isWorkDotMetaDotComURI",[],(function(t,n,r,o,a,i){var e="(^|\\.)work\\.meta\\.com$",l=new RegExp(e,"i"),s=["https"];function u(e){return e.isEmpty()&&e.toString()!=="#"||!e.getDomain()&&!e.getProtocol()?!1:s.indexOf(e.getProtocol())!==-1&&l.test(e.getDomain())}i.default=u}),66);
-__d("legacy:onload-action",["PageHooks"],(function(t,n,r,o,a,i){var e;t._domreadyHook=(e=n("PageHooks"))._domreadyHook,t._onloadHook=e._onloadHook,t.runHook=e.runHook,t.runHooks=e.runHooks,t.keep_window_set_as_loaded=e.keepWindowSetAsLoaded}),3);
